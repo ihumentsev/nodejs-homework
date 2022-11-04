@@ -1,6 +1,4 @@
-```js
-<a href="https://ibb.co/47jq8SY"><img src="https://i.ibb.co/47jq8SY/contacts-js-nodejs-homework-Visual-Studio-Code.jpg" alt="contacts-js-nodejs-homework-Visual-Studio-Code" border="0"></a>
-```
+https://i.ibb.co/47jq8SY/contacts-js-nodejs-homework-Visual-Studio-Code.jpg
 
 ![How it works](./assets/screen.jpg)
 
