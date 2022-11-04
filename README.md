@@ -1,4 +1,4 @@
-https://i.ibb.co/47jq8SY/contacts-js-nodejs-homework-Visual-Studio-Code.jpg
+https://ibb.co/47jq8SY
 
 ![How it works](./assets/screen.jpg)
 
